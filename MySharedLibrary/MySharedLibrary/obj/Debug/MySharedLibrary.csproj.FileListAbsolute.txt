@@ -1,0 +1,6 @@
+D:\assignemt exercise\Assignment-23\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+D:\assignemt exercise\Assignment-23\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+D:\assignemt exercise\Assignment-23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+D:\assignemt exercise\Assignment-23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\Assignment-23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+D:\assignemt exercise\Assignment-23\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb

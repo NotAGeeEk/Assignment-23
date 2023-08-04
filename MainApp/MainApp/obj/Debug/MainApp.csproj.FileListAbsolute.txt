@@ -1,0 +1,11 @@
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\assignemt exercise\Assignment-23\MainApp\MainApp\obj\Debug\MainApp.pdb
